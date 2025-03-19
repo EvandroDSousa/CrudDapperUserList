@@ -38,8 +38,8 @@ O **Repository Pattern** ajuda a manter uma estrutura organizada e modular, **se
 - **PUT** `/users/{id}` - Atualiza um usuário existente.
 - **DELETE** `/users/{id}` - Remove um usuário.
 
-## 🤝 Contribuição
-Contribuições são bem-vindas! Fique à vontade para **abrir issues** e **enviar pull requests**.
+## 🤝 Sugestões  
+Sugestões são bem-vindas! Fique à vontade para comentar, vamos trocar uma idéia!
 
 ## 📜 Créditos
 Este projeto foi baseado no vídeo de [@CrislaineLuana](https://github.com/CrislaineLuana).
