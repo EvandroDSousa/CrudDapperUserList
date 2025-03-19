@@ -41,5 +41,6 @@ O **Repository Pattern** ajuda a manter uma estrutura organizada e modular, **se
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Fique à vontade para **abrir issues** e **enviar pull requests**.
 
-## 📜 Licença
-Este projeto está sob a **licença MIT**.
+## 📜 Créditos
+Este projeto foi desenvolvido com base no conteúdo de [CrislaineLuana]([link do vídeo](https://www.youtube.com/watch?v=mmFw3OXlouo)).  
+Sinta-se à vontade para estudar, modificar e utilizar este código, desde que os devidos créditos sejam mantidos.
